@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">demo_sqlite</string>
+    <string-array name="category">
+        <item>Mua Sam</item>
+        <item>Tien An</item>
+        <item>Tien Nha</item>
+        <item>Tien Dien</item>
+        <item>Tien Nuoc</item>
+        <item>Di Lai</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
